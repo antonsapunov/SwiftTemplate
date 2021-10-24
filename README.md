@@ -2,7 +2,7 @@
 
 # Installation
 
-## Using script (easy)
+## Using script
 
 Only need execute this command in terminal:
 
