@@ -3,7 +3,7 @@
 
 At first create module by File->New->File. Choose Custom Templates-> Module MVP.
 
-<img width="729" alt="Screen Shot 2021-10-24 at 21 16 06" src="https://user-images.githubusercontent.com/24410759/138607223-daf3939c-dd27-442a-94a5-3d257a94b056.png">
+<img width="727" alt="Screen Shot 2021-10-24 at 21 16 06" src="https://user-images.githubusercontent.com/24410759/138607517-be948be1-0825-4355-bbd5-090aa04767b1.png">
 
 Then press Add files to "your project" (option+cmd+a). It will creates reference for your new files in Xcode project.
 
@@ -11,4 +11,4 @@ Then press Add files to "your project" (option+cmd+a). It will creates reference
 
 After that click delete on your first created module (the blue one) and choose remove reference.
 
-<img width="263" alt="Screen Shot 2021-10-24 at 21 20 14" src="https://user-images.githubusercontent.com/24410759/138607371-1b94f4d7-25c9-4b7b-a46d-619fbc2449d3.png">
+<img width="254" alt="Screen Shot 2021-10-24 at 21 20 14" src="https://user-images.githubusercontent.com/24410759/138607525-dbc16201-3644-4b13-8623-d57a16f4af4d.png">
