@@ -1,6 +1,6 @@
 import Foundation
 
-let templateName = "Module MVP.xctemplate"
+let templateName = "Module MVVM.xctemplate"
 let destinationRelativePath = "/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File Templates/Custom Templates"
 
 func printInConsole(_ message:Any) {
